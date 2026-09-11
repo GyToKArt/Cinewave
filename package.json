@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "packageType": "app",
-  "appName": "TizenPlayer",
-  "appPath": "app/index.html",
+  "appName": "Cinewave",
+  "appPath": "index.html",
   "keys": []
 }
